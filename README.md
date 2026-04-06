@@ -13,7 +13,11 @@ A full-stack web application that helps students connect with peers taking the s
 - Sourabh – Frontend Developer and Tester
 - Chandra Deepika – Backend Developer and Tester
 - Bhagyavathi – Frontend Developer  and Database
+<<<<<<< HEAD
+- Harsha Vardhan - Frontend Developer
+=======
 - Harsha Vardhan - Frontend Developer and Database
+>>>>>>> upstream/main
 ---
 
 # 📋 Table of Contents
@@ -118,9 +122,26 @@ This platform improves academic networking and simplifies group study coordinati
 - User-friendly chat UI with message differentiation  
 - Scalable backend architecture for real-time communication  
 
+<<<<<<< HEAD
+# 🚀 Milestone 4 (Week 7–8)
+### Implemented
+-Developed session scheduling system allowing users to create, update, and manage study sessions
+-Integrated real-time notifications for session creation, updates, and reminders
+-Implemented calendar integration to visualize -upcoming sessions in an organized manner
+-Enabled automatic reminders before session start time to improve participation.
+
+### Outcomes
+
+# 🛠️ Tech Stack
+-Improved user engagement through timely session reminders and notifications
+-Reduced missed sessions with automated alert system
+-Provided a seamless scheduling experience with calendar visualization
+-Enhanced user productivity by organizing sessions effectively.
+=======
 ---
 
 # 🛠️ Tech Stack
+>>>>>>> upstream/main
 
 ## Frontend
 
